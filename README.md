@@ -5,7 +5,7 @@
 ## Welcome
 
 ![comwonderfula's github stats](https://github-readme-stats.vercel.app/api?username=comwonderfula&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
-![comwonderfula's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comwonderfula&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&langs_count=10&hide=ruby,shell,html,css,less,java,scss&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
+![comwonderfula's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comwonderfula&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&langs_count=6&hide=ruby,shell,html,less,java,scss&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
 <p align="center">
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=comwonderfula&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" /> -->
 </p>
