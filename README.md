@@ -4,9 +4,6 @@ I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm 
 # Thanks for visiting my Git! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <a target="blank" href="https://profile-counter.glitch.me/comwonderfula/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/comwonderfula/count.svg" /></a>
 
-## Welcome
-
-
 <p align="center">
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=unicorn-talent&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" /> -->
 </p>
