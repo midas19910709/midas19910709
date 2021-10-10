@@ -15,9 +15,13 @@ I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm 
 
 ## ⚡️ A Few Quick Facts
 
+
 - 🧐 Always learning about blockchain, smart contracts, and web development.
+
 - 🤔 I’m looking for help with development in Web 3.0.
+
 - 💬 Ping me about react, node, javascript, and blockchain stuff.
+
 
 
 <h2>🚀 Some Tools I Use</h2>
@@ -48,7 +52,6 @@ I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm 
 ![Unicorn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unicorn-talent&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unicorn-talent&langs_count=6&hide=TeXt,blade&hide_border=true&layout=compact&theme=radical)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BravoNatalie.BravoNatalie)
 
 ## About me
 * I am an entrepreneurial software engineer heavily focusing on web development as a Full-stack.
