@@ -11,11 +11,39 @@ I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm 
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=unicorn-talent&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" /> -->
 </p>
 
-### Highlights
+<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
 
-|  Front-end   | Back-end   |  Mobile App   | API Development   |
-| ----------- | ----------- | ----------- | ----------- |
-| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width=50px height=50px><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=50px height=50px><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width=50px height=50px><img src="https://www.datocms-assets.com/205/1583850012-nuxt-square.svg" width=50px height=50px><img src="https://camo.githubusercontent.com/41759602ad091b02adf7b4986b55b0a870471b98/68747470733a2f2f63646e2e767565746966796a732e636f6d2f696d616765732f6c6f676f732f6c6f676f2e737667" width=50px height=50px>      | <img src="https://camo.githubusercontent.com/f5398b1e6163bb240ecf25a8e0dbb05a161b87c3/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e253341414e64394763536a58354b625839564254665579426a30696f31676b586b424658516532664b4b59587726757371703d434155" width=50px height=50px><img src="https://pngimage.net/wp-content/uploads/2018/06/laravel-icon-png-6.png" width=50px height=50px><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" width=50px height=50px><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIN4EUfB9rORoaGfLYLyjX1N-jpTiF7J7X3Q&usqp=CAU" width=50px height=50px><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width=50px height=50px><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" width=70px height=50px>   | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width=50px height=50px><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=50px height=50px>     | <img src="https://i.stack.imgur.com/XtpTm.png" width=50px height=50px><img src="https://cdn.syncfusion.com/boldbi/integration/v3/datasources/chargebee.png" width=100px height=60px><img src="https://www.freshbooks.com/wp-content/uploads/2018/12/AC_logo_300-5.png" width=100px height=50px>       |
+## ⚡️ A Few Quick Facts
+
+- 🧐 Always learning about blockchain, smart contracts, and web development.
+- 🤔 I’m looking for help with development in Web 3.0.
+- 💬 Ping me about react, node, javascript, and blockchain stuff.
+
+
+<h2>🚀 Some Tools I Use</h2>
+
+<p align="left">
+  
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=flat-square&logo=solidity&logoColor=363636" />
+<img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Boostrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+
+</p>
 
 ![Unicorn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unicorn-talent&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unicorn-talent&langs_count=6&hide=TeXt,blade&hide_border=true&layout=compact&theme=radical)
