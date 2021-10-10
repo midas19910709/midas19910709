@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm working on some side projects, learning a couple new skills, and trying to regain the habit of reading fiction books.
+
 # Thanks for visiting my Git! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <a target="blank" href="https://profile-counter.glitch.me/comwonderfula/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/comwonderfula/count.svg" /></a>
 
