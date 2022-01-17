@@ -29,7 +29,7 @@ I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-45b8d8?style=flat-square&logo=angular&logoColor=white" />  
-<img alt="Vue" src="https://img.shields.io/badge/-VueJS-45b8d8?style=flat-square&logo=vue&logoColor=white" />
+<img alt="Vue" src="https://img.shields.io/badge/-VueJS-45b8d8?style=flat-square&logo=vue.js&logoColor=white" />
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-45d8d8?style=flat-square&logo=rust&logoColor=white" />
 <img alt="GO" src="https://img.shields.io/badge/-Go-45c8d8?style=flat-square&logo=Go&logoColor=white" />
 <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=flat-square&logo=solidity&logoColor=363636" />
