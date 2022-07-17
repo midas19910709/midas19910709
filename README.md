@@ -13,9 +13,9 @@ I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm 
 ## ⚡️ A Few Quick Facts
 
 
-- 🧐 Always learning about blockchain, smart contracts, and web development.
+- 🧐 Always focusing on blockchain, smart contracts, and web development.
 
-- 🤔 I’m looking for help with development in Web 3.0.
+- 🤔 I’m looking for job with development in Web 3.0.
 
 - 💬 Ping me about react, node, javascript, and blockchain stuff.
 
