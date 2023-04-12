@@ -17,7 +17,7 @@ I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm 
 
 - 🤔 I’m looking for job with development in Web 3.0.
 
-- 💬 Ping me about react, node, javascript, and blockchain stuff.
+- 💬 Ping me about react, node, javascript, and blockchain stuff.(Here I am)
 
 
 
